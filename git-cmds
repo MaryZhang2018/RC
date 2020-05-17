@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "User Service improvement"
+git remote add origin https://github.com/MaryZhang2018/RC.git
+git push -u origin master
